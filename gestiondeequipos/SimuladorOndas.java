@@ -1,6 +1,6 @@
 package gestiondeequipos;
 
-public class SimuladorOndas extends Equipo implements Simulador {
+public class SimuladorOndas extends Equipo implements ISimulador {
     
     //Atributos
     private String versionSoftware;

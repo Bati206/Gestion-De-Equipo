@@ -1,5 +1,5 @@
 package gestiondeequipos;
-public class GeneradorSenales extends Equipo implements Generador {
+public class GeneradorSenales extends Equipo implements IGenerador {
     
     //Atributos
     private double frecuenciaMaxima;

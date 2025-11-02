@@ -1,6 +1,6 @@
 package gestiondeequipos;
 
-public class Cronometro extends Equipo implements Analizador {
+public class Cronometro extends Equipo implements IAnalizador {
     
     //Atributos
     private double resolucionTemporal;

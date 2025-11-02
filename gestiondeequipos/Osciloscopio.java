@@ -67,4 +67,3 @@ public class Osciloscopio extends Equipo implements IMedidor {
     }
 }
     
-}

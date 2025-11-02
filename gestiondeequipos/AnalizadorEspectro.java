@@ -1,6 +1,6 @@
 package gestiondeequipos;
 
-public class AnalizadorEspectro extends Equipo implements Analizador {
+public class AnalizadorEspectro extends Equipo implements IAnalizador {
 
     
     //Atributos

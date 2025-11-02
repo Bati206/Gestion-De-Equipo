@@ -12,7 +12,8 @@ Universidad Del Valle de Guatemala
 */
     
     public static void main(String[] args) {
-        
+        ControladorGestionador controlador = new ControladorGestionador();
+        controlador.iniciar();
         
     }
     
